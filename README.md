@@ -1,6 +1,6 @@
 # Linux-NetSpeed
 
-将Linux现常用的网络加速集成在一起，一键安装bbr/bbr_plus加速脚本相关文件，适用于Debian与centos
+将Linux现常用的网络加速集成在一起，一键安装bbr/bbr_plus加速脚本相关文件，适用于Debian、Ubuntu与centos
 
 使用方法：
 
